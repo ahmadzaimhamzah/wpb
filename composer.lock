@@ -4,8 +4,19 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "6c792e9522318e133e6b7f83f60490ba",
+    "content-hash": "c159051a00f4c715c16d15cbb4c8c3fe",
     "packages": [
+        {
+            "name": "actualityextensions/woocommerce-point-of-sale",
+            "version": "4.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://gitlab.com/biskoot/woocommerce-point-of-sale/-/archive/master/woocommerce-point-of-sale-master.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin"
+        },
         {
             "name": "composer/installers",
             "version": "v1.5.0",
